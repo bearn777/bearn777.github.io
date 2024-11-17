@@ -16,8 +16,8 @@
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:black;stroke-width:0.1}
-    .fil0 {fill:none}
+    .str0 {fill:#000;stroke:black;stroke-width:0.1}
+    .fil0 {fill:#000}
    ]]>
   </style>
  </defs>
